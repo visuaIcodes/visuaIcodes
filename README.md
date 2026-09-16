@@ -14,5 +14,5 @@ Developer @ Another Level Games.
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisualarCoder&layout=compact&langs_count=8&theme=default)](https://github.com/VisualarCoder)
-[![Visuals's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualarCoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visuaIcodes&layout=compact&langs_count=8&theme=default)](https://github.com/visuaIcodes)
+[![Visuals's GitHub stats](https://github-readme-stats.vercel.app/api?username=visuaIcodes)](https://github.com/anuraghazra/github-readme-stats)
