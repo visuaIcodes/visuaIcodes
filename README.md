@@ -1,2 +1,2 @@
 ## hi, welcome to my profile
-Developer @ Another Level Games LTD.
+Developer @ Another Level Games
